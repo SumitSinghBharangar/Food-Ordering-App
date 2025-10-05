@@ -1,26 +1,52 @@
-# Hungry
-<table>
-  <tr>
-    <td><img src="assets/icons/app_icon.png" alt="Hungry" style="width: 300px;"/></td>
-    <td>
-      <strong>Hungry</strong> is a food delivery app template. It gives you a consumer-facing solution that replicates the core design and features of the popular food delivery platform, Uber Eats. If you're keen on creating a food delivery app, this template offers you the starting point for your project with Flutter, Firebase and Google Maps Platform. 
-    </td>
-  </tr>
-</table>
+# Food-Ordering-App
+
+A flutter app to order the food and track the delivery of the ordered food. it just only the basis of that how the food ordering it is not a complete and robust application.
+
+## Project Description
+
+The Food ordering app allows user to order the food.
+It provides the user friendly interface to:
+- category selection screen for the different food items.
+- it provides the search option for selection the food the specific category or specific restaurants .
+- it provides the google map for the selecting the loaction the food parcel for delivery.
 
 
-YouTube video: https://youtu.be/6DPOeOagTlE
+## Setup Instructions
 
-If you're looking for the complete template for a Doctor Booking app:
+### Prerequisites
+- **Flutter SDK**: Version 3.6.0 or higher
+- **Dart SDK**: '>=3.6.0 <4.0.0'
+- **IDE**: Android Studio or VS Code with Flutter plugins installed
+- **Physical Device**: An Android or iOS device for testing.
 
-![Hero](screenshots/hungry_preview_thumbnail.png)
+### Installation
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/SumitSinghBharangar/Food-Ordering-App.git
+   
+Install Dependencies:
+Run the following command to fetch all required packages:
+bash
+
+# Screenshots
+
+![alt text](<screenshots/hungry-1.png>)
+
+![alt text](<screenshots/hungry-2.png>)
+
+![alt text](<screenshots/hungry-3.png>)
+
+![alt text](<screenshots/hungry-4.png>)
+
+![alt text](<screenshots/hungry-5.png>)
+
+![alt text](<screenshots/hungry-6.png>)
+
+![alt text](<screenshots/hungry-7.png>)
+
+![alt text](<screenshots/hungry-1.png>)
 
 
-## Screenshots
-|![Home Screen](screenshots/hungry-1.png) | ![Home Screen (Pick-up)](screenshots/hungry-2.png) | ![Search Categories](screenshots/hungry-3.png) |
-|:---:|:---:|:---:|
-| Home Screen | Home Screen (Pick-up) | Search Categories |
-| ![Search Categories (List)](screenshots/hungry-4.png) | ![Restaurant Details Screen](screenshots/hungry-6.png) | ![Menu Item Details View](screenshots/hungry-7.png) |
-| Search Categories (List) Screen | Restaurant Details Screen | Menu Item Details View |
-| ![Cart Screen](screenshots/hungry-8.png)| ![Welcome Screen](screenshots/hungry-9.png) |  |
-| Cart Screen | Welcome Screen |  |
+
+
+
